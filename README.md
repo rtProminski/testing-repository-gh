@@ -1,3 +1,3 @@
 # testing-repository-gh
 
-Tekstowy tekst
+Tekstowy teksts
