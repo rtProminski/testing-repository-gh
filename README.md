@@ -2,4 +2,4 @@
 
 Tekstowy teksts
 
-change added with branch first-branch
+second branch
